@@ -1,0 +1,23 @@
+{
+  "name": "not-a-slumlord",
+  "version": "1.0.0",
+  "description": "Simple application to parse out how successful a home purchase might be, depending on assumptions and variables.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davek804/not-a-slumlord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davek804/not-a-slumlord/issues"
+  },
+  "homepage": "https://github.com/davek804/not-a-slumlord#readme",
+  "dependencies": {
+    "prompt" : "1.0.0"
+  }
+}
